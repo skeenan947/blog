@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Fibromyalga Story
-description: ''
+description: How My Life Changed
 image: assets/images/pic11.jpg
 nav-menu: true
 
