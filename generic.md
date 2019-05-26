@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: My Fibromyalga Story
+description: ''
 image: assets/images/pic11.jpg
 nav-menu: true
+
 ---
+I was a healthy, very active guy who was biking around 50 miles a week, hiking 5-10 miles, sometimes more.  I ate well, was (and still am) thin, and have never smoked.  Now, some days I can barely make it up a flight of stairs without needing to stop and take a breath.  I feel like I'm going to faint if I move too quickly.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+What happened?  My doctors say it's Fibromyalgia, a "syndrome" that affects 3-4% of the population, 90% of whom are women.  It causes chronic, widespread pain, as well as significant fatigue.  Some days, I'm fine.  Other times, like today, I can barely move.  If I get up too quickly, I black out.  I can take about 4 stairs at a time before I need to pause for a minute.  Sometimes, these "flare-ups" last for days, or even weeks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I have medication that helps with pain, but nothing really helps the fatigue - trust me, I've tried just about everything.  I'm still able to work because I have an amazing job that allows me to work from home whenever I need to, and I'm extremely thankful for that, because I can't imagine being stuck at home without being able to keep doing something that I'm passionate about.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Some days, I wallow in self-pity, wishing that this hadn't happened to me, but things could be much worse, so in the end, I'm thankful.  I can still walk.  I still have good days where I'm able to take a hike or a 15-mile bike ride.  I have a wonderful job, and a wife who loves me very much.  Lydia does a lot for me.  She picks up the slack that I leave when I'm not able to get up and do much.
+
+Most importantly, I still have my faith in God.  Sometimes I lose focus on that faith, but without Him, I wouldn't have much to live for.  I would be empty and lost.  
